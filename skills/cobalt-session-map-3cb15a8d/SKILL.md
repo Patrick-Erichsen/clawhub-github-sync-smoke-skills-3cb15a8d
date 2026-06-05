@@ -12,6 +12,8 @@ or transcript before sharing it with another person.
 This smoke-test skill is based on the OpenClaw `session-viewer` skill. It keeps
 the same intent, but uses a random slug for ClawHub GitHub-sync validation.
 
+Sync smoke updated at: 2026-06-05T02:23:45Z.
+
 ## Workflow
 
 1. Ask for the transcript file or pasted transcript if the user has not provided
@@ -43,4 +45,3 @@ Evidence:
 Follow-ups:
 - <remaining item>
 ```
-
